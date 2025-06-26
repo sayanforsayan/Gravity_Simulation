@@ -1,4 +1,4 @@
-# 🌌 AR Gravity Physics Simulation (Unity + ARCore)
+# AR Gravity Physics Simulation (Unity + ARCore)
 
 🎓 *An Augmented Reality educational app for students to visualize how gravity works across different planets using real-time phone movement.*
 
